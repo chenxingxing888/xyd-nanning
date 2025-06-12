@@ -13,3 +13,10 @@ int add(int a,int b)
 	return (a+b);
 }
 
+/****v1.0.2版本*****/
+
+int sub(int a,int b)
+{
+	return (a-b);
+}
+
