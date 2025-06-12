@@ -20,3 +20,11 @@ int sub(int a,int b)
 	return (a-b);
 }
 
+/******v1.03版本*****/
+
+void hello()
+{
+	printf("欢迎来到信盈达\n");
+}
+
+
